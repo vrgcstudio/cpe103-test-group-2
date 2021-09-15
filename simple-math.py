@@ -1,3 +1,5 @@
+def multiply(a,b):
+    return(a*b)
 
 i = 0
 
